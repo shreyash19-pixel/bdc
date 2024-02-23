@@ -166,7 +166,7 @@
         background-color: #EFEFEF;
         display: flex;
         flex-direction: column;
-        gap: 35px;
+        gap: 45px;
         justify-content: center;
         align-items: center;
         z-index: 99; 
